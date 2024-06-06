@@ -1,8 +1,4 @@
 # Cognifyz_
-Certainly! Below is a concise summary of the information provided, converted into a more compact form while retaining the key details.
-
----
-
 **Cognifyz: Data Analyst Internship Overview**
 
 **Project Details:**
